@@ -23,3 +23,17 @@ class Human:
         pass
     def clear_home(self):
         pass
+    def to_repair(self):
+        pass
+    def days_indexrs(self, day):
+        pass
+    def is_alive(self):
+        pass
+    def live(self, day):
+        pass
+class Auto:
+    def __init__(self, brand_list):
+        self.brand = random.choice(list(brand_list))
+        self.fuel = brand_list[self.brand]['fuel']
+        self.kin = brand_list[self.brand]['kin']
+        self.consumpion = brand_list[self.brand]['consumpion'
