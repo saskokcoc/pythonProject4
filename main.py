@@ -37,6 +37,6 @@ class Auto:
         self.fuel = brand_list[self.brand]['fuel']
         self.kin = brand_list[self.brand]['kin']
         self.consumpion = brand_list[self.brand]['consumpion']
-brands_of_cars ={'BMW':{'fuel':100, "kin":240,"consumpion":260}},
-                {'лада':{'fuel'{:67, "kin":120,"consumpion":120}},
-                {'хламідія':{'fuel':98, "kin":160,"consumpion":164}}
+brands_of_cars ={'BMW заквіеля': {'fuel':100, "kin":240,"consumpion":260},
+                 'лада': {'fuel':67, "kin":120,"consumpion":120},
+                 'хламідія': {'fuel':98, "kin":160,"consumpion":164}}
