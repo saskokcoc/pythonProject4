@@ -7,3 +7,4 @@ class Human:
         self.car = car
         self.glabhess = 50
         self.stiety = 50
+
